@@ -24,7 +24,7 @@ flutter_icons:
   ios: true
   remove_alpha_ios: true
   adaptive_icon_foreground: "assets/icon/palm.png"
-  adaptive_icon_background: "#3eb6e6"
+  adaptive_icon_background: "#0175C2"
 
 flutter:
   uses-material-design: true
