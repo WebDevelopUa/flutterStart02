@@ -24,12 +24,13 @@ Emulator => Wipe data
 
 * [Entrypoint](lib/main.dart)
 * [Packages](pubspec.yaml)
-    - [flutter_launcher_icons: ^0.9.2](https://pub.dev/packages/flutter_launcher_icons) => `flutter pub get`
+   - [url_strategy: ^0.2.0](https://pub.dev/packages/url_strategy/install)
+   - [flutter_launcher_icons: ^0.9.2](https://pub.dev/packages/flutter_launcher_icons) => `flutter pub get`
       => `flutter pub run flutter_launcher_icons:main `
-    - [android icons](android/app/src/main/res)
-    - [android splash icons](android/app/src/main/res/drawable/splash_icon.png)
-    - [android splash icons](android/app/src/main/res/drawable-v21/splash_icon.png)
-    - [ios icons](ios/Runner/Assets.xcassets/AppIcon.appiconset)
+   - [android icons](android/app/src/main/res)
+   - [android splash icons](android/app/src/main/res/drawable/splash_icon.png)
+   - [android splash icons](android/app/src/main/res/drawable-v21/splash_icon.png)
+   - [ios icons](ios/Runner/Assets.xcassets/AppIcon.appiconset)
 
 ---------------------
 

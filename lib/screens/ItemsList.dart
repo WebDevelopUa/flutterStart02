@@ -21,7 +21,7 @@ class ItemsList extends StatelessWidget {
               ),
               FloatingActionButton.extended(
                 onPressed: () {
-                  Navigator.pushNamed(context, 'typescript');
+                  Navigator.pushNamed(context, '/typescript');
                 },
                 icon: Icon(Icons.link_rounded),
                 label: Text('TYPESCRIPT'),
