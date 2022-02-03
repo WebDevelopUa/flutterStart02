@@ -22,6 +22,7 @@ class ItemsList extends StatelessWidget {
                   onPressed: () {
                     Navigator.pushNamed(context, 'dart');
                   },
+                  heroTag: Text("btn1"),
                   label: Text('DART'),
                   icon: Icon(Icons.wb_cloudy_outlined),
                 ),
@@ -29,6 +30,7 @@ class ItemsList extends StatelessWidget {
                   onPressed: () {
                     Navigator.pushNamed(context, '/typescript');
                   },
+                  heroTag: Text("btn2"),
                   icon: Icon(Icons.link_rounded),
                   label: Text('TYPESCRIPT'),
                 ),
